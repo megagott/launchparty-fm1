@@ -16,7 +16,9 @@
 
 [Open the companion](https://mandalars.org/mandalars/launchparty/) · [Visual guide](https://mandalars.org/mandalars/launchparty/guide.html) · [Both FM-1 firmware projects](https://mandalars.org/mandalars/fm1/)
 
-The browser companion is available on the project website. Its live factory content may differ from this public source edition.
+![LAUNCHPARTY running on a real FM-1 — photographed development version 0.3.1 WEB](launchparty-fm1-display-0.3.1.jpg)
+
+Real FM-1 photograph supplied by MandaLars, showing development version **0.3.1 WEB**. This is not a photograph of the public 0.3.2 build. The browser companion is available on the project website; its live factory content may differ from this public source edition.
 
 ## Hardware and connection
 
@@ -36,7 +38,7 @@ Download and extract [the complete corresponding source](launchparty-0.3.2-publi
 
 ## Firmware Hub
 
-Sven's [FM-1 Firmware Hub](https://fm1.designburgapps.com/) is a community resource. Hub inclusion is not claimed. A real FM-1 display photograph is still needed for a complete submission; `docs/boot-render.png` is a software render, not such a photograph.
+Sven's [FM-1 Firmware Hub](https://fm1.designburgapps.com/) is a community resource. Hub inclusion is not claimed. A [real FM-1 display photograph](launchparty-fm1-display-0.3.1.jpg) is included, showing development version 0.3.1 WEB. This does not establish a hardware test of the changed 0.3.2 public build. The source archive's `docs/boot-render.png` remains a labelled software render.
 
 Suggested card description:
 
