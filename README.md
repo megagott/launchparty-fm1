@@ -14,7 +14,7 @@
 - Browser companion for previews, computer-keyboard performance, show import/export, device communication and firmware updates.
 - Optional Joomla-backed show gallery; local playback does not need the gallery backend.
 
-[Open the companion](https://mandalars.org/mandalars/launchparty/) Â· [Visual guide](https://mandalars.org/mandalars/launchparty/guide.html) Â· [Both FM-1 firmware projects](https://mandalars.org/mandalars/fm1/)
+[Open the companion](https://mandalars.org/mandalars/launchparty/) · [Visual guide](https://mandalars.org/mandalars/launchparty/guide.html) · [Both FM-1 firmware projects](https://mandalars.org/mandalars/fm1/)
 
 The browser companion is available on the project website. Its live factory content may differ from this public source edition.
 
@@ -44,6 +44,6 @@ Suggested card description:
 
 ## Source and acknowledgements
 
-Derived from MYCELIUM, SLOOP and Felucca, with upstream work by Leo Kuroshita / HÃ¼gelton Instruments and the SLOOP contributors. See [credits](CREDITS.txt), [LICENSING.md](LICENSING.md) and the full [GPL-3.0 licence](LICENSE).
+Derived from MYCELIUM, SLOOP and Felucca, with upstream work by Leo Kuroshita / Hügelton Instruments and the SLOOP contributors. See [credits](CREDITS.txt), [LICENSING.md](LICENSING.md) and the full [GPL-3.0 licence](LICENSE).
 
 This is independent software, not affiliated with or endorsed by Novation, Focusrite, M-VAVE or Ableton. Third-party names are used to identify hardware and compatibility.
