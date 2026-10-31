@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "\.(?:js|json|fwsc)$">
+Header set X-Content-Type-Options "nosniff"
+</FilesMatch>
