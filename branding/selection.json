@@ -1,0 +1,17 @@
+{
+  "selected_logo": "launchparty-logo-v1.png",
+  "source_file": "branding/launchparty-logo-v1.png",
+  "sha256": "c4ee7c1797c5376a3dc408c582a64713fec26356fd86f1e3b55fa2347db0c744",
+  "approval": "Lars selected this logo: ok nehmen wir. Relayed from website chat.",
+  "brand": "LAUNCHPARTY",
+  "purpose": "Novation Launchpad in connection with FM1; MYCELIUM remains the groovebox brand.",
+  "colors": [
+    "white",
+    "neon lime",
+    "violet"
+  ],
+  "firmware_binary_integrated": true,
+  "device_flashed_for_this_change": true,
+  "firmware_version": "0.3.1-web",
+  "source_bank_preserved": true
+}

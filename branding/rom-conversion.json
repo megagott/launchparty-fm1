@@ -1,0 +1,21 @@
+{
+  "source_sha256": "c4ee7c1797c5376a3dc408c582a64713fec26356fd86f1e3b55fa2347db0c744",
+  "crop": [
+    49,
+    162,
+    2138,
+    558
+  ],
+  "variants": [
+    {
+      "width": 224,
+      "height": 42,
+      "rom_bytes": 9498
+    },
+    {
+      "width": 114,
+      "height": 22,
+      "rom_bytes": 3153
+    }
+  ]
+}
