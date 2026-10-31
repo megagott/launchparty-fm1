@@ -1,0 +1,1 @@
+The public factory scene files in this directory are original procedural LAUNCHPARTY patterns, distributed under GPL-3.0-only. The private imported Ableton show archive is not included.
