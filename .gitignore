@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/*
+!build/gen/
+!build/gen/**
+web/gallery-data/*
+!web/gallery-data/.htaccess
+*.fwsc
+.env
+verification-local.json

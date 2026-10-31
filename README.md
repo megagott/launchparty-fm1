@@ -34,7 +34,7 @@ SHA-256: `83b4a2ee4aa539c8946e8b9660a51b0bc6eff5abd1677fab0f3b55712429873e`
 
 The preceding 0.3.1 development version has documented transfer/reboot, version reporting, persistent show upload/readback and show-bank preservation. This public 0.3.2 build replaces private imported shows with original procedural loops and has not been installed on hardware. Host-side regression tests cover playback, mixing, effects and storage. These checks do not replace a full physical audio, visual and USB-host compatibility test. Treat the release as experimental, not a production-certified instrument.
 
-Download and extract [the complete corresponding source](launchparty-0.3.2-public-source.zip) to build or modify it. See [installation and recovery](INSTALL.md), [build instructions](BUILDING.md), [release notes](RELEASE.md) and [test report](VERIFICATION.md).
+The corresponding source is now available as browsable files in `firmware/`, `tools/`, `tests/`, `shows/`, `web/` and `build/gen/`. A [clean source archive](launchparty-0.3.2-public-source-clean.zip) is also available. An unused historical backup header was removed from this clean archive; the firmware binary is unchanged. See [installation and recovery](INSTALL.md), [build instructions](BUILDING.md), [release notes](RELEASE.md) and [test report](VERIFICATION.md).
 
 ## Firmware Hub
 
@@ -49,3 +49,9 @@ Suggested card description:
 Derived from MYCELIUM, SLOOP and Felucca, with upstream work by Leo Kuroshita / Hügelton Instruments and the SLOOP contributors. See [credits](CREDITS.txt), [LICENSING.md](LICENSING.md) and the full [GPL-3.0 licence](LICENSE).
 
 This is independent software, not affiliated with or endorsed by Novation, Focusrite, M-VAVE or Ableton. Third-party names are used to identify hardware and compatibility.
+
+
+## Source publication update — 2026-10-31
+
+The browsable source corresponds to 0.3.2-public. Eleven host regression tests and all three browser test suites passed again on 2026-10-31. The full Firmware Hub physical upgrade / switch-back / interrupted-update checklist for this public binary remains pending. Later private development builds have separate device logs and must not be treated as certification of this public release.
+
