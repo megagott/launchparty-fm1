@@ -55,3 +55,4 @@ This is independent software, not affiliated with or endorsed by Novation, Focus
 
 The browsable source corresponds to 0.3.2-public. Eleven host regression tests and all three browser test suites passed again on 2026-10-31. The full Firmware Hub physical upgrade / switch-back / interrupted-update checklist for this public binary remains pending. Later private development builds have separate device logs and must not be treated as certification of this public release.
 
+You can also try Launchparty in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
